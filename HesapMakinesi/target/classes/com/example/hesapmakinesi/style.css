@@ -1,0 +1,23 @@
+.result-button:hover{
+    -fx-background-color: #6BA9E9;
+}
+
+.plus-button:hover{
+    -fx-background-color: #6BA9E9;
+}
+
+.number-button:hover{
+    -fx-background-color: lightgray;
+}
+
+.number-button{
+    -fx-background-color: #EDEDED;
+}
+
+.plus-button{
+    -fx-background-color: #DCDCDC;
+}
+
+.result-button{
+    -fx-background-color: #92C4F7;
+}
